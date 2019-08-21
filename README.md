@@ -17,5 +17,5 @@ A compatibility-based "FriendFinder" application, this full-stack site will take
 
 ## Demo
 
-Click to view on Heroku 
+[Click here to view on Heroku](https://www.google.com)
 
