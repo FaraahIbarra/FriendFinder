@@ -1,18 +1,18 @@
 var friendsData = [
     {
-        name: "Michelle Obama",
-        photo: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Michelle_Obama_2013_official_portrait.jpg",
-        scores: [3, 4, 3, 3, 4, 4, 4, 1, 5, 3]
+        "name": "Michelle Obama",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Michelle_Obama_2013_official_portrait.jpg",
+        "scores": [3, 4, 3, 3, 4, 4, 4, 1, 5, 3]
     },
     {
-        name: "Vince Vaughn",
-        photo: "https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2016/04/gettyimages-477782050.jpg",
-        scores: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+        "name": "Vince Vaughn",
+        "photo": "https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2016/04/gettyimages-477782050.jpg",
+        "scores": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
     },
     {
-        name: "Angelina Jolie",
-        photo: "https://www.hellomagazine.com/imagenes/film/2019073075915/angelina-jolie-shocks-with-announcement-about-career/0-368-501/angelina-jolie-shocking-news-t.jpg",
-        scores: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+        "name": "Angelina Jolie",
+        "photo": "https://www.hellomagazine.com/imagenes/film/2019073075915/angelina-jolie-shocks-with-announcement-about-career/0-368-501/angelina-jolie-shocking-news-t.jpg",
+        "scores": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     },
     {
         name: "Dwayne Johnson",
